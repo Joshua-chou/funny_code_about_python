@@ -1,0 +1,36 @@
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+
+优美胜于丑陋。
+显式胜于隐式。
+简单胜于复杂。
+复杂胜于难懂。
+扁平胜于嵌套。
+分散胜于密集。
+可读性应当被重视。
+尽管实用性会打败纯粹性，特例也不能凌驾于规则之上。
+除非明确地使其沉默，错误永远不应该默默地溜走。
+面对不明确的定义，拒绝猜测的诱惑。
+用一种方法，最好只有一种方法来做一件事。
+虽然一开始这种方法并不是显而易见的，但谁叫你不是 Python 之父呢。
+做比不做好，但立马去做有时还不如不做。
+如果实现很难说明，那它是个坏想法。
+如果实现容易解释，那它有可能是个好想法。
+命名空间是个绝妙的想法，让我们多多地使用它们吧！
